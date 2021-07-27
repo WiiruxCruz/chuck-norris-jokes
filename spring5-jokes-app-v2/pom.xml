@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>mx.com.wiirux</groupId>
 	<artifactId>spring5-jokes-app-v2</artifactId>
-	<version>1.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>spring5-jokes-app-v2</name>
 	<description>Demo project for Spring Boot with chuck norris jokes</description>
 	<properties>
